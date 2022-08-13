@@ -5,6 +5,6 @@ For using this archiver:
 3) Get encoded data in example.vlc
 
 
-EXAMPLE
+# EXAMPLE:
 -input data: My name is Samandar
 -output data: 20 30 3C 18 77 4A E4 2B 0D C0 AD 00
